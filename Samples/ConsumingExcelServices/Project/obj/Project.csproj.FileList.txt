@@ -1,0 +1,6 @@
+bin\Debug\Project.exe.config
+bin\Debug\Project.exe
+bin\Debug\Project.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Project.exe
+obj\Debug\Project.pdb
