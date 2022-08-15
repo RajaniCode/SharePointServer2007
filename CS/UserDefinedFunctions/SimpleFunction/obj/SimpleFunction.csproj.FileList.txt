@@ -1,0 +1,5 @@
+bin\Debug\SimpleFunction.dll
+bin\Debug\SimpleFunction.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleFunction.dll
+obj\Debug\SimpleFunction.pdb
